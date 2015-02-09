@@ -27,7 +27,7 @@ All commands are run via powershell / prompt (as in the examples in the Rabbit M
 ###Register the consumers
 Register the listeners to create and bind the queues. Note that this implementation includes Feeds, but not Seed yet (old messages)
 	
-	:Rabbit.Receiver\bin\Debug> Rabbit.Receiver.exe alert.high alert.mid
+	\Rabbit.Receiver\bin\Debug> Rabbit.Receiver.exe alert.high alert.mid
 
 And state the name of the queue for this listener (this in case the listener crashes and you want to pick it up later).
 
@@ -44,7 +44,7 @@ The queue Alert1 will be bound to the routing keys
 
 Now the queue Alert2 will subscribe to all alerts (in another shell):
 
-	:Rabbit.Receiver\bin\Debug>Rabbit.Receiver.exe alert.*
+	\Rabbit.Receiver\bin\Debug>Rabbit.Receiver.exe alert.*
 	Enter queue name (RabbitMQ will create if does not exist)
 	Alert2
 	subscribed to queue Alert2
@@ -55,7 +55,7 @@ Now the queue Alert2 will subscribe to all alerts (in another shell):
 
 So now we send some messages to have a look. At first a specific message.
 
-	:Rabbit.Sender\bin\Debug>Rabbit.Sender.exe alert.mid
+	\Rabbit.Sender\bin\Debug>Rabbit.Sender.exe alert.mid
 	sent message Message : alert.mid
 
 
