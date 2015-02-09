@@ -1,0 +1,16 @@
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - personal exercise\Rabbit\Rabbit.Sender\bin\Debug\Rabbit.Sender.exe.config
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - personal exercise\Rabbit\Rabbit.Sender\bin\Debug\Rabbit.Sender.exe
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - personal exercise\Rabbit\Rabbit.Sender\bin\Debug\Rabbit.Sender.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - personal exercise\Rabbit\Rabbit.Sender\bin\Debug\RabbitMQ.Client.dll
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - personal exercise\Rabbit\Rabbit.Sender\bin\Debug\RabbitMQ.Client.xml
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - personal exercise\Rabbit\Rabbit.Sender\obj\Debug\Rabbit.Sender.csprojResolveAssemblyReference.cache
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - personal exercise\Rabbit\Rabbit.Sender\obj\Debug\Rabbit.Sender.exe
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - personal exercise\Rabbit\Rabbit.Sender\obj\Debug\Rabbit.Sender.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - pubsub topics with persistance\Rabbit.Sender\bin\Debug\Rabbit.Sender.exe.config
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - pubsub topics with persistance\Rabbit.Sender\obj\Debug\Rabbit.Sender.exe
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - pubsub topics with persistance\Rabbit.Sender\obj\Debug\Rabbit.Sender.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - pubsub topics with persistance\Rabbit.Sender\bin\Debug\Rabbit.Sender.exe
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - pubsub topics with persistance\Rabbit.Sender\bin\Debug\Rabbit.Sender.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - pubsub topics with persistance\Rabbit.Sender\bin\Debug\RabbitMQ.Client.dll
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - pubsub topics with persistance\Rabbit.Sender\bin\Debug\RabbitMQ.Client.xml
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - pubsub topics with persistance\Rabbit.Sender\obj\Debug\Rabbit.Sender.csprojResolveAssemblyReference.cache

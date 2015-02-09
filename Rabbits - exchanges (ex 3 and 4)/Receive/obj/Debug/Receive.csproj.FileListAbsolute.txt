@@ -1,0 +1,16 @@
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Receive\bin\Debug\Receive.exe.config
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Receive\bin\Debug\Receive.exe
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Receive\bin\Debug\Receive.pdb
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Receive\bin\Debug\RabbitMQ.Client.dll
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Receive\bin\Debug\RabbitMQ.Client.xml
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Receive\obj\Debug\Receive.exe
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Receive\obj\Debug\Receive.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Receive\bin\Debug\Receive.exe.config
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Receive\bin\Debug\Receive.exe
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Receive\bin\Debug\Receive.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Receive\bin\Debug\RabbitMQ.Client.dll
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Receive\bin\Debug\RabbitMQ.Client.xml
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Receive\obj\Debug\Receive.exe
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Receive\obj\Debug\Receive.pdb

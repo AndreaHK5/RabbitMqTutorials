@@ -1,0 +1,16 @@
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\SlowReceiver\bin\Debug\SlowReceiver.exe.config
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\SlowReceiver\bin\Debug\SlowReceiver.exe
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\SlowReceiver\bin\Debug\SlowReceiver.pdb
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\SlowReceiver\bin\Debug\RabbitMQ.Client.dll
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\SlowReceiver\bin\Debug\RabbitMQ.Client.xml
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\SlowReceiver\obj\Debug\SlowReceiver.csprojResolveAssemblyReference.cache
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\SlowReceiver\obj\Debug\SlowReceiver.exe
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\SlowReceiver\obj\Debug\SlowReceiver.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - basics\SlowReceiver\bin\Debug\SlowReceiver.exe.config
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - basics\SlowReceiver\bin\Debug\SlowReceiver.exe
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - basics\SlowReceiver\bin\Debug\SlowReceiver.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - basics\SlowReceiver\bin\Debug\RabbitMQ.Client.dll
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - basics\SlowReceiver\bin\Debug\RabbitMQ.Client.xml
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - basics\SlowReceiver\obj\Debug\SlowReceiver.csprojResolveAssemblyReference.cache
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - basics\SlowReceiver\obj\Debug\SlowReceiver.exe
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - basics\SlowReceiver\obj\Debug\SlowReceiver.pdb

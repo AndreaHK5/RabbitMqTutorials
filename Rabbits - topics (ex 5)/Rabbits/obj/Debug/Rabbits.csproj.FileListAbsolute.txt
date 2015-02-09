@@ -1,0 +1,24 @@
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Rabbits\bin\Debug\Rabbits.exe.config
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Rabbits\bin\Debug\Rabbits.exe
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Rabbits\bin\Debug\Rabbits.pdb
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Rabbits\bin\Debug\RabbitMQ.Client.dll
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Rabbits\bin\Debug\RabbitMQ.Client.xml
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Rabbits\obj\Debug\Rabbits.csprojResolveAssemblyReference.cache
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Rabbits\obj\Debug\Rabbits.exe
+C:\Users\andrea.cremese\Desktop\NMS\Rabbits\Rabbits\obj\Debug\Rabbits.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Rabbits\bin\Debug\Rabbits.exe.config
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Rabbits\obj\Debug\Rabbits.exe
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Rabbits\obj\Debug\Rabbits.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Rabbits\bin\Debug\Rabbits.exe
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Rabbits\bin\Debug\Rabbits.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Rabbits\bin\Debug\RabbitMQ.Client.dll
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Rabbits\bin\Debug\RabbitMQ.Client.xml
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - exchanges\Rabbits\obj\Debug\Rabbits.csprojResolveAssemblyReference.cache
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - topics\Rabbits\bin\Debug\Rabbits.exe.config
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - topics\Rabbits\obj\Debug\Rabbits.exe
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - topics\Rabbits\obj\Debug\Rabbits.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - topics\Rabbits\bin\Debug\Rabbits.exe
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - topics\Rabbits\bin\Debug\Rabbits.pdb
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - topics\Rabbits\bin\Debug\RabbitMQ.Client.dll
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - topics\Rabbits\bin\Debug\RabbitMQ.Client.xml
+Y:\code\STEP\Project + technology Background\RabbitMQ\Rabbits - topics\Rabbits\obj\Debug\Rabbits.csprojResolveAssemblyReference.cache
